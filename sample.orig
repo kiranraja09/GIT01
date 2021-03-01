@@ -6,5 +6,8 @@ I did my masters
 I got 74% in UG
 This is Devops session
 This is GIT
+<<<<<<< HEAD
 1st line
+=======
 2nd line
+>>>>>>> dev
